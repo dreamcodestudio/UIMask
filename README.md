@@ -1,5 +1,4 @@
 # UIMask
-[![donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5VW3E89ZUYYXC)
 
 Reverse Mask of Unity "Mask" component.
 ![mask_test](https://cloud.githubusercontent.com/assets/7010398/10592593/955f4836-76c5-11e5-9262-81b36b241c68.PNG)
