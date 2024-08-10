@@ -13,6 +13,8 @@ Add a `Mask Inverter` component to the child UI element of the Mask component
 
 ![image](https://user-images.githubusercontent.com/7010398/235317171-d6d601dd-8f44-4aa9-a9cd-7624fe1cab68.png)
 
+https://github.com/user-attachments/assets/547f0f35-2d68-4fd4-9bd1-53299d9434a1
+
 # Samples 📖
 
 See `Assets\Examples\Scenes\ExampleScene`
