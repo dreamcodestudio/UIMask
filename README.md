@@ -18,3 +18,8 @@ https://github.com/user-attachments/assets/547f0f35-2d68-4fd4-9bd1-53299d9434a1
 # Samples 📖
 
 See `Assets\Examples\Scenes\ExampleScene`
+
+# ✉️ Contact
+[Telegram](https://t.me/dreamcestudio)
+
+[Email](mailto:dreamcodestudio@yandex.com)
